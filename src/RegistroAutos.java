@@ -1,3 +1,4 @@
+
 public class RegistroAutos {
     private static int contadorAutos = 0; //para registrar el total de autos
     private int id;
@@ -69,23 +70,6 @@ public class RegistroAutos {
         disponible = d;
     }
 
-
-    // funcionalidades del auto
-    public void encender() {
-        System.out.println("El auto esá encendido.");
-    }
-
-    public void apagar() {
-        System.out.println("El auto está apagado.");
-    }
-
-    public void acelerar() {
-        System.out.println("El auto esta acelerando.");
-    }
-
-    public void frenar() {
-        System.out.println("El auto esta frenando.");
-    }
 
     // metodos para mostrar informacion
     public void mostrarInfoCarro() { 

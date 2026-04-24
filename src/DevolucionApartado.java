@@ -1,4 +1,5 @@
 //definimos los atributos para la clase devolucion apartado
+
 public class DevolucionApartado { 
     String fechaDevolucion;
     boolean estatusDevolucion;

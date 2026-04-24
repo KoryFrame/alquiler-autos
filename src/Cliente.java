@@ -1,5 +1,3 @@
-
-
 //definimos atributos para el cliente
 public class Cliente {
     private static int contadorClientes = 0;
